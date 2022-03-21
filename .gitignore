@@ -1,0 +1,10 @@
+__pycache__/
+credentials.json
+.ipynb_checkpoints/
+tmp/
+*.bak
+demo-*
+data/
+*.rar
+*backup.ipynb
+Main*.ipynb
