@@ -5,6 +5,7 @@ tmp/
 *.bak
 demo-*
 data/
+_exported/
 *.rar
 *backup.ipynb
 Main*.ipynb
