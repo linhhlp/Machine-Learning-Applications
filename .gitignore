@@ -4,7 +4,6 @@ credentials.json
 tmp/
 *.bak
 demo-*
-data/
 _exported/
 *.rar
 *backup.ipynb
