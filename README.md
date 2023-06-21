@@ -16,3 +16,7 @@ Built Recommenders and tuned predictors with the memory-based k-NN algorithm, Ma
 4. [Natural Language Processing](Natural-Language-Processing-Machine-Learning)
 
 Demonstrated seq2seq framework in TensorFlow using LSTM neural networks for both encoder and decoder to build Vietnamese Translator. Presented usages of APIs provided by OpenAI (ChatGPT 3) and Cohere AI.
+
+5. [Convert Text to Vector](Text-2-Vect-Vector-Search)
+
+How to convert text to a vector and do semantic search on Cassandra. The study case is to find movies based on the plots by a query of text.
