@@ -1,0 +1,12 @@
+cred.py
+secure-connect-movies-vector-search.zip.encrypt
+__pycache__/
+.ipynb_checkpoints/
+tmp/
+_data/
+_exported/
+*credential.json
+*.bak
+test*.ipynb
+*.rar
+*backup.ipynb
