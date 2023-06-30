@@ -4,6 +4,8 @@
 
 2. Do semantic search for an input query with Vector Search by DataStax. This will return movies that plots are close to the query.
 
+3. Prompt Engineering: To achieve the best results which are the closest to the query, we use a Generate Model with Prompt Engineering to generate the best candidates.
+
 A demo is deployed at https://find-movies.com/
 
 Let's start with [Introduction](Step0_Introduction.ipynb)
